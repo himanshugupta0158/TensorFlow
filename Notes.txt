@@ -1,0 +1,24 @@
+AI(Artificial Intelligence) : 
+The effort to automate intellectual tasks normally performed by 
+humans.
+AI can be both simple and complex.
+
+ML(Machine Learning) :
+ML figures out the rules for us by taking data and output or
+ML takes data and output as input and figures out process of how
+this output is generated from using that data as input for that
+output.
+Goal of ML is to raise accuracy of calculating correct data as 
+much as possible.
+In ML , rather than giving the program the rules, an algorithm 
+finds the rules for us.
+
+NN(Neural Network) : 
+NN is a form machine learning that uses a layered representation
+of data.
+It is also called Multi-stage information extraction process.
+NN i totally named after human brain because we not much know about
+how human brain works.
+
+Features : Feautres are the input information that we will always 
+have that we need to give to the model to get some output.
